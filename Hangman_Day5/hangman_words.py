@@ -71,6 +71,7 @@ word_list = [
 'gossip', 
 'grogginess', 
 'haiku', 
+'happy',
 'haphazard', 
 'hyphen', 
 'iatrogenic', 
